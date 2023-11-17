@@ -41,7 +41,7 @@ Here we login with the help desk login and see the Admin panel, we can go back a
     title="Click for the larger version." /></a>
 </p>
 <p>
-We need to create a new role here, we go to Agents ->Add New Role ->System Amdinistration->Permissions->Full->Save. This role has full access to osTicket, you can also assign agents to this department as well. 
+We need to create a new role here, we go to Agents ->Add New Role ->System Administration->Permissions->Full->Save. This role has full access to osTicket, you can also assign agents to this department as well. 
 </p>
 <br />
 
@@ -55,7 +55,7 @@ We need to create a new role here, we go to Agents ->Add New Role ->System Amdin
 <p>
 We need to create a team here, we go to Agents->Teams->Add New Team->Level II Support->Permissions->Full->Save. This role has full access to osTicket. 
 </p>
-<br />
+<br/>
 
 <p>
    <a href="https://drive.google.com/uc?export=view&id=1xaRjlmo0jmkHkjZ5zmNDlsd5OR2IXBQS">
