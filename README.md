@@ -58,16 +58,6 @@ We need to create a new department here, we go to Agents->Department->Add New De
 <br />
 
 <p>
-<p>
-   <a href="https://drive.google.com/uc?export=view&id=18-lThzCaai2tFIJtNY64aUs4NsS34zKj">
-    <img src="https://drive.google.com/uc?export=view&id=18-lThzCaai2tFIJtNY64aUs4NsS34zKj"
-    style="width: 900px; max-width: 100%; height: auto"
-    title="Click for the larger version." /></a>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<p>
    <a href="https://drive.google.com/uc?export=view&id=1xaRjlmo0jmkHkjZ5zmNDlsd5OR2IXBQS">
     <img src="https://drive.google.com/uc?export=view&id=1xaRjlmo0jmkHkjZ5zmNDlsd5OR2IXBQS"
     style="width: 900px; max-width: 100%; height: auto"
