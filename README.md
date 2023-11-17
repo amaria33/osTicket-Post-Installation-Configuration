@@ -54,7 +54,7 @@ We need to create a new role here, we go to Agents ->Add New Role ->Sumpreme Amd
     title="Click for the larger version." /></a>
 </p>
 <p>
-We need to create a new role here, we go to Agents ->Add New Role ->System Administration->Permissions->Full->Save. This role has full access to osTicket, you can also assign agents to this department as well. 
+
 </p>
 <br />
 
@@ -66,7 +66,7 @@ We need to create a new role here, we go to Agents ->Add New Role ->System Admin
     title="Click for the larger version." /></a>
 </p>
 <p>
-We need to create a team here, we go to Agents->Teams->Add New Team->Level II Support->Permissions->Full->Save. This role has full access to osTicket. 
+ We need to create a new role here, we go to Agents ->Add New Role ->System Administration->Permissions->Full->Save. This role has full access to osTicket, you can also assign agents to this department as well. 
 </p>
 <br/>
 
@@ -77,7 +77,7 @@ We need to create a team here, we go to Agents->Teams->Add New Team->Level II Su
     title="Click for the larger version." /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We need to create a team here, we go to Agents->Teams->Add New Team->Level II Support->Permissions->Full->Save. This role has full access to osTicket.
 </p>
 <p>
    <a href="https://drive.google.com/uc?export=view&id=1FLLRnGj-a0cou6cO84zB9_T-9otOXCOz">
