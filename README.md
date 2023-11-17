@@ -29,7 +29,7 @@ This tutorial outlines the post installation configuaration of the open-source h
     title="Click for the larger version." /></a>
 </p>
 <p>
-Here we login with the help desk login and see 
+Here we login with the help desk login and see the Admin panel, we can go back and forth as admin and agent to see tickets, however we need to do some configurations. Again as a help desk tech you won't have to complete this, but as a good way to see learn installation it would bee to see how to set up and learn steps. 
 </p>
 <br />
 
