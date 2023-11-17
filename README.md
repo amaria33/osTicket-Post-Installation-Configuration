@@ -47,10 +47,6 @@ We need to create a new role here, we go to Agents ->Add New Role ->Supreme Admi
 </p>
 <br />
 
-</p>
-<br />
-
-<p>
 <p>
    <a href="https://drive.google.com/uc?export=view&id=18-lThzCaai2tFIJtNY64aUs4NsS34zKj">
     <img src="https://drive.google.com/uc?export=view&id=18-lThzCaai2tFIJtNY64aUs4NsS34zKj"
@@ -78,7 +74,7 @@ We need to create a team here, we go to Agents->Teams->Add New Team->Level II Su
     title="Click for the larger version." /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we need to create some users. Switch to agent view. Click User->Add New User->Enter Name & Email->Create. I created just 2 for the sake of learning. 
 </p>
 <p>
    <a href="https://drive.google.com/uc?export=view&id=1Aw4ie-Qofy2VBZUiDzZRraNdsw0-c7Cd">
@@ -87,7 +83,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     title="Click for the larger version." /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Switch back to admin view, we need to create SLA's. This is the Service Level Agreement Plans: I set up 3, SEV-A, 1 HR grace period, -B, 4 HR grace period, & -C, 8 HR grace period.
 </p>
 <p>
    <a href="https://drive.google.com/uc?export=view&id=1VzDt2z4Z1Ar0dPWDwGC4KjP6OQ3PMD5c">
@@ -96,6 +92,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     title="Click for the larger version." /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
+The last part of this is creating Help Topics. I created an aditional four under the Manage tab. I created Business Critical Outage, Equiptment Request, Personal Computer Issue, & Password Reset. 
 <br />
 
