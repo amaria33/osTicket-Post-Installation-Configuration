@@ -33,10 +33,9 @@ This tutorial outlines the post installation configuaration of the open-source h
 Here we login with the help desk login and see the Admin panel, we can go back and forth as admin and agent to see tickets, however we need to do some configurations. Again as a help desk tech you won't have to complete this, but as a good way to see learn installation it would bee to see how to set up and learn steps. 
 </p>
 <br />
-
 <p>
 <p>
-   <a href="https://drive.google.com/uc?export=view&id=1fzLkiNbAUhjfqbkvZ4W3aQxNOf6PMHaj>
+   <a href="https://drive.google.com/uc?export=view&id=1fzLkiNbAUhjfqbkvZ4W3aQxNOf6PMHaj">
     <img src="https://drive.google.com/uc?export=view&id=1fzLkiNbAUhjfqbkvZ4W3aQxNOf6PMHaj"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
