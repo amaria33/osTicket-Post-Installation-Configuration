@@ -53,7 +53,7 @@ We need to create a new role here, we go to Agents ->Add New Role ->System Amdin
     title="Click for the larger version." /></a>
 </p>
 <p>
-We need to create a new department here, we go to Agents->Department->Add New Department->Sumpreme Amdinistration->Permissions->Full->Save. This role has full access to osTicket. 
+We need to create a team here, we go to Agents->Teams->Add New Team->Level II Support->Permissions->Full->Save. This role has full access to osTicket. 
 </p>
 <br />
 
