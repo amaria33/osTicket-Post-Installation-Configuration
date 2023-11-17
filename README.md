@@ -35,18 +35,16 @@ Here we login with the help desk login and see the Admin panel, we can go back a
 <br />
 
 <p>
-We need to create a new role here, we go to Agents ->Add New Role ->Sumpreme Amdinistration->Permissions->Full->Save. This role has full access to osTicket. 
-</p>
-<br />
-
-<p>
 <p>
    <a href="https://drive.google.com/uc?export=view&id=1fzLkiNbAUhjfqbkvZ4W3aQxNOf6PMHaj">
     <img src="https://drive.google.com/uc?export=view&id=1fzLkiNbAUhjfqbkvZ4W3aQxNOf6PMHaj"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
 
+</p>
 <p>
+We need to create a new role here, we go to Agents ->Add New Role ->Supreme Amdinistration->Permissions->Full->Save. This role has full access to osTicket. 
+</p>
 <p>
    <a href="https://drive.google.com/uc?export=view&id=1fzLkiNbAUhjfqbkvZ4W3aQxNOf6PMHaj">
     <img src="https://drive.google.com/uc?export=view&id=1fzLkiNbAUhjfqbkvZ4W3aQxNOf6PMHaj"
