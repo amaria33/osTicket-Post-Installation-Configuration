@@ -41,19 +41,19 @@ Here we login with the help desk login and see the Admin panel, we can go back a
     title="Click for the larger version." /></a>
 </p>
 <p>
-We need to create a new role here, we go to Agents ->Add New Role ->Sumpreme Amdinistration->Permissions->Full->Save. This role has full access to osTicket. 
+We need to create a new role here, we go to Agents ->Add New Role ->System Amdinistration->Permissions->Full->Save. This role has full access to osTicket, you can also assign agents to this department as well. 
 </p>
 <br />
 
 <p>
 <p>
-   <a href="https://drive.google.com/uc?export=view&id=1fzLkiNbAUhjfqbkvZ4W3aQxNOf6PMHaj">
-    <img src="https://drive.google.com/uc?export=view&id=1fzLkiNbAUhjfqbkvZ4W3aQxNOf6PMHaj"
+   <a href="https://drive.google.com/uc?export=view&id=18-lThzCaai2tFIJtNY64aUs4NsS34zKj">
+    <img src="https://drive.google.com/uc?export=view&id=18-lThzCaai2tFIJtNY64aUs4NsS34zKj"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We need to create a new department here, we go to Agents->Department->Add New Department->Sumpreme Amdinistration->Permissions->Full->Save. This role has full access to osTicket. 
 </p>
 <br />
 
